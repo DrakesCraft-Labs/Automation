@@ -11,7 +11,7 @@ version = "UNOFFICIAL"
 repositories {
     mavenCentral()
     maven("https://jitpack.io/")
-    maven("https://drakescraft-labs.github.io/maven-repo/")
+    maven("https://maven.drakescraft.cl/")
     maven("https://repo.papermc.io/repository/maven-public/")
 }
 
